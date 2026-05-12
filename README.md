@@ -15,7 +15,9 @@ Observaciones: 252
 País: España
 
 # IMPORTANTE
-La base de datos esta adjunta en la carpeta datos. 
+La base de datos esta adjunta en la carpeta llamada Datos. 
+
+Los modelos obtenidos con las diferentes configuraciones, estan guardados con la extensión [Keras] en la carpera Modelos
 
 # Modelos evaluados
 ## Redes recurrentes
