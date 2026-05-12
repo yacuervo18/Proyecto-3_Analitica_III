@@ -17,12 +17,12 @@ País: España
 # IMPORTANTE
 La base de datos esta adjunta en la carpeta datos. 
 
-## Modelos evaluados
-- 1. Redes recurrentes
-- 2. LSTM (Long Short-Term Memory)
+# Modelos evaluados
+## Redes recurrentes
+LSTM (Long Short-Term Memory)
+GRU (Gated Recurrent Unit)
 
-- GRU (Gated Recurrent Unit)
-- Modelos CNN híbridos
+# Modelos CNN híbridos
 - CNN + Dense
 - CNN + LSTM
 - CNN + GRU
